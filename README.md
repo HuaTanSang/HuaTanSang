@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Retinal Vessel Segmentation**
 
-- 🌱 I’m currently learning **Pytorch, Computer Vision, Data Engineering**
+- 🌱 I’m currently learning **Computer Vision, Data Engineering**
 
 - 📫 How to reach me: **huatansang2004@gmail.com**
 
